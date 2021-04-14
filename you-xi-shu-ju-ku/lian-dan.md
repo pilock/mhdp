@@ -6,10 +6,16 @@
 
 {% tabs %}
 {% tab title="1级" %}
-
+| 丹药 | 需要材料 | 效果 | 成功率 | 备注 |
+| :--- | :--- | :--- | :--- | :--- |
+|  |  |  |  |  |
 {% endtab %}
 
 {% tab title="2级" %}
+
+{% endtab %}
+
+{% tab title="" %}
 
 {% endtab %}
 {% endtabs %}
