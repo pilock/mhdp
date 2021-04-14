@@ -13,4 +13,9 @@
     * [异兽图鉴](you-xi-shu-ju-ku/zhuang-bei/yi-shou-tu-jian.md)
   * [心法](you-xi-shu-ju-ku/xin-fa.md)
   * [异火](you-xi-shu-ju-ku/yi-huo.md)
+  * [异兽](you-xi-shu-ju-ku/yi-shou.md)
+  * [任务](you-xi-shu-ju-ku/ren-wu/README.md)
+    * [主线任务](you-xi-shu-ju-ku/ren-wu/zhu-xian-ren-wu.md)
+    * [支线任务](you-xi-shu-ju-ku/ren-wu/zhi-xian-ren-wu.md)
+    * [机缘任务](you-xi-shu-ju-ku/ren-wu/ji-yuan-ren-wu.md)
 
