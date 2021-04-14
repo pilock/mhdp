@@ -6,9 +6,59 @@
 
 {% tabs %}
 {% tab title="1级" %}
-| 丹药 | 需要材料 | 效果 | 成功率 | 备注 |
-| :--- | :--- | :--- | :--- | :--- |
-|  |  |  |  |  |
+<table>
+  <thead>
+    <tr>
+      <th style="text-align:left">&#x4E39;&#x836F;</th>
+      <th style="text-align:left">&#x9700;&#x8981;&#x6750;&#x6599;</th>
+      <th style="text-align:left">&#x6548;&#x679C;</th>
+      <th style="text-align:left">&#x6210;&#x529F;&#x7387;</th>
+      <th style="text-align:left">&#x5907;&#x6CE8;</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align:left">&#x56DE;&#x6625;&#x4E39;</td>
+      <td style="text-align:left">&#x9752;&#x7075;&#x8349;*1
+        <br />&#x4E00;&#x7EA7;&#x571F;&#x9B54;&#x6838;*1
+        <br />&#x5E7D;&#x51A5;&#x8349;*1</td>
+      <td style="text-align:left">
+        <p>&#x4F7F;&#x7528;&#x540E;&#x53EF;&#x6062;&#x590D;10%&#x6C14;&#x8840;</p>
+        <p>&#x5E76;&#x83B7;&#x5F97;&#x751F;&#x547D;&#x6062;&#x590D;50&#x6301;&#x7EED;30&#x79D2;</p>
+      </td>
+      <td style="text-align:left">80%</td>
+      <td style="text-align:left"></td>
+    </tr>
+    <tr>
+      <td style="text-align:left"></td>
+      <td style="text-align:left"></td>
+      <td style="text-align:left"></td>
+      <td style="text-align:left"></td>
+      <td style="text-align:left"></td>
+    </tr>
+    <tr>
+      <td style="text-align:left"></td>
+      <td style="text-align:left"></td>
+      <td style="text-align:left"></td>
+      <td style="text-align:left"></td>
+      <td style="text-align:left"></td>
+    </tr>
+    <tr>
+      <td style="text-align:left"></td>
+      <td style="text-align:left"></td>
+      <td style="text-align:left"></td>
+      <td style="text-align:left"></td>
+      <td style="text-align:left"></td>
+    </tr>
+    <tr>
+      <td style="text-align:left"></td>
+      <td style="text-align:left"></td>
+      <td style="text-align:left"></td>
+      <td style="text-align:left"></td>
+      <td style="text-align:left"></td>
+    </tr>
+  </tbody>
+</table>
 {% endtab %}
 
 {% tab title="2级" %}
@@ -19,4 +69,6 @@
 
 {% endtab %}
 {% endtabs %}
+
+
 
