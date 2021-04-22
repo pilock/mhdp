@@ -4,12 +4,46 @@
 
 {% tabs %}
 {% tab title="十年异兽" %}
-| 名字 | 等级 | 技能 | 掉落物 |
-| :--- | :--- | :--- | :--- |
-| 魔级魔女 |  |  | 黑铁币\[1\] |
-| 妖级魔蝎 |  |  |  |
-| 妖级妖女 |  |  |  |
-| 幽谷毒犬 |  |  |  |
+<table>
+  <thead>
+    <tr>
+      <th style="text-align:left">&#x540D;&#x5B57;</th>
+      <th style="text-align:left">&#x7B49;&#x7EA7;</th>
+      <th style="text-align:left">&#x6280;&#x80FD;</th>
+      <th style="text-align:left">&#x6389;&#x843D;&#x7269;</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align:left">&#x9B54;&#x7EA7;&#x9B54;&#x5973;</td>
+      <td style="text-align:left"></td>
+      <td style="text-align:left"></td>
+      <td style="text-align:left">
+        <p>&#x9ED1;&#x94C1;&#x5E01;[1]</p>
+        <p>&#x98CE;&#x706B;&#x6728;&#x6C34;&#x571F;&#x9B54;&#x6838;[1]</p>
+        <p>&#x56DE;&#x7075;&#x8D64;&#x679C;|&#x706B;&#x9B54;&#x53F6;|&#x9752;&#x7075;&#x8349;|&#x5F80;&#x751F;&#x8349;|&#x5E7D;&#x51A5;&#x8349;[1]</p>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left">&#x5996;&#x7EA7;&#x9B54;&#x874E;</td>
+      <td style="text-align:left"></td>
+      <td style="text-align:left"></td>
+      <td style="text-align:left"></td>
+    </tr>
+    <tr>
+      <td style="text-align:left">&#x5996;&#x7EA7;&#x5996;&#x5973;</td>
+      <td style="text-align:left"></td>
+      <td style="text-align:left"></td>
+      <td style="text-align:left"></td>
+    </tr>
+    <tr>
+      <td style="text-align:left">&#x5E7D;&#x8C37;&#x6BD2;&#x72AC;</td>
+      <td style="text-align:left"></td>
+      <td style="text-align:left"></td>
+      <td style="text-align:left"></td>
+    </tr>
+  </tbody>
+</table>
 {% endtab %}
 
 {% tab title="百年异兽" %}
