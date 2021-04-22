@@ -16,8 +16,8 @@
   <tbody>
     <tr>
       <td style="text-align:left">&#x9B54;&#x7EA7;&#x9B54;&#x5973;</td>
-      <td style="text-align:left"></td>
-      <td style="text-align:left"></td>
+      <td style="text-align:left">1-9</td>
+      <td style="text-align:left">&#x65E0;</td>
       <td style="text-align:left">
         <p>&#x9ED1;&#x94C1;&#x5E01;[1]</p>
         <p>&#x98CE;&#x706B;&#x6728;&#x6C34;&#x571F;&#x9B54;&#x6838;[1]</p>
