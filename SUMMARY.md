@@ -19,4 +19,5 @@
     * [主线任务](you-xi-shu-ju-ku/ren-wu/zhu-xian-ren-wu.md)
     * [支线任务](you-xi-shu-ju-ku/ren-wu/zhi-xian-ren-wu.md)
     * [机缘任务](you-xi-shu-ju-ku/ren-wu/ji-yuan-ren-wu.md)
+* [在线地图](http://game.mcpc.fun:8123/)
 
