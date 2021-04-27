@@ -280,10 +280,8 @@
         + &#x4E94;&#x9636;&#x98CE;&#x9B54;&#x6838;</td>
       <td style="text-align:left">
         <p></p>
-        <p>&#x83B7;&#x5F97;&amp;e1000 &amp;6&#x70B9;&#x6597;&#x6C14;&#x6062;&#x590D;&apos;</p>
-        <ul>
-          <li>&apos;&amp;6&#x6301;&#x7EED;&amp;e100 &amp;6&#x79D2;</li>
-        </ul>
+        <p>&#x83B7;&#x5F97;1000 &#x70B9;&#x6597;&#x6C14;&#x6062;&#x590D;</p>
+        <p>&#x6301;&#x7EED;100 &#x79D2;</p>
       </td>
       <td style="text-align:left"></td>
       <td style="text-align:left"></td>
@@ -294,12 +292,10 @@
       <td
       style="text-align:left">
         <p></p>
-        <p>&#x4F7F;&#x7528;&#x540E;&#x6062;&#x590D; &amp;e20%&amp;6&#x6597;&#x6C14;&apos;</p>
-        <ul>
-          <li>&apos;&amp;6&#x83B7;&#x5F97; &amp;e200 &amp;6&#x751F;&#x547D;&#x6062;&#x590D;&apos;</li>
-          <li>&apos;&amp;6&#x989D;&#x5916;&#x83B7;&#x5F97; &amp;e200 &amp;6&#x70B9;&#x98CE;&#x653B;&apos;</li>
-          <li>&apos;&amp;6&#x6301;&#x7EED; &amp;e1000 &amp;6&#x79D2;</li>
-        </ul>
+        <p>&#x4F7F;&#x7528;&#x540E;&#x6062;&#x590D; 20%&#x6597;&#x6C14;&apos;</p>
+        <p>&#x83B7;&#x5F97; 200 &#x751F;&#x547D;&#x6062;&#x590D;&apos;</p>
+        <p>&#x989D;&#x5916;&#x83B7;&#x5F97; 200 &#x70B9;&#x98CE;&#x653B;&apos;</p>
+        <p>&#x6301;&#x7EED; 1000 &#x79D2;</p>
         </td>
         <td style="text-align:left"></td>
         <td style="text-align:left"></td>
@@ -310,12 +306,10 @@
       <td
       style="text-align:left">
         <p></p>
-        <p>&#x4F7F;&#x7528;&#x540E;&#x6062;&#x590D; &amp;e50%&amp;6 &#x751F;&#x547D;&#x503C;&apos;</p>
-        <ul>
-          <li>&apos;&amp;6&#x6062;&#x590D; &amp;e60% &amp;6&#x6597;&#x6C14;&apos;</li>
-          <li>&apos;&amp;6&#x989D;&#x5916;&#x83B7;&#x5F97; &amp;e100 &amp;6&#x70B9;&#x7ECF;&#x9A8C;&#x52A0;&#x6210;&apos;</li>
-          <li>&apos;&amp;6&#x6301;&#x7EED; &amp;e6 &amp;6&#x5206;&#x949F;</li>
-        </ul>
+        <p>&#x4F7F;&#x7528;&#x540E;&#x6062;&#x590D; 50% &#x751F;&#x547D;&#x503C;</p>
+        <p>&#x6062;&#x590D; 60% &#x6597;&#x6C14;</p>
+        <p>&#x989D;&#x5916;&#x83B7;&#x5F97; 100 &#x70B9;&#x7ECF;&#x9A8C;&#x52A0;&#x6210;</p>
+        <p>&#x6301;&#x7EED; 6 &#x5206;&#x949F;</p>
         </td>
         <td style="text-align:left"></td>
         <td style="text-align:left"></td>
@@ -326,13 +320,11 @@
       <td
       style="text-align:left">
         <p></p>
-        <p>10 &amp;6&#x79D2;&#x5185;&#x65E0;&#x89C6;&#x7269;&#x7406;&#x653B;&#x51FB;&apos;</p>
-        <ul>
-          <li>&apos;&amp;6&#x989D;&#x5916;&#x83B7;&#x5F97;&amp;e30&amp;6&#x70B9;&#x653B;&#x901F;&apos;</li>
-          <li>&apos;&amp;6+&amp;e500&amp;6&#x70B9;&#x7269;&#x7406;&#x653B;&#x51FB;&apos;</li>
-          <li>&apos;&amp;6&#x6301;&#x7EED;&amp;e60&#x79D2;&apos;</li>
-          <li>&apos;&amp;6&#x51B7;&#x5374;&#x65F6;&#x95F4;: &amp;e3 &amp;6&#x79D2;</li>
-        </ul>
+        <p>10 &#x79D2;&#x5185;&#x65E0;&#x89C6;&#x7269;&#x7406;&#x653B;&#x51FB;</p>
+        <p>&#x989D;&#x5916;&#x83B7;&#x5F97;30&#x70B9;&#x653B;&#x901F;&apos;</p>
+        <p>+500&#x70B9;&#x7269;&#x7406;&#x653B;&#x51FB;&apos;</p>
+        <p>&#x6301;&#x7EED;60&#x79D2;</p>
+        <p>&#x51B7;&#x5374;&#x65F6;&#x95F4;: 3 &#x79D2;</p>
         </td>
         <td style="text-align:left"></td>
         <td style="text-align:left"></td>
@@ -399,9 +391,67 @@
 {% endtab %}
 
 {% tab title="7级" %}
-| 丹药 | 需要材料 | 效果 | 成功率 | 备注 |
-| :--- | :--- | :--- | :--- | :--- |
-|  |  |  |  |  |
+<table>
+  <thead>
+    <tr>
+      <th style="text-align:left">&#x4E39;&#x836F;</th>
+      <th style="text-align:left">&#x9700;&#x8981;&#x6750;&#x6599;</th>
+      <th style="text-align:left">&#x6548;&#x679C;</th>
+      <th style="text-align:left">&#x6210;&#x529F;&#x7387;</th>
+      <th style="text-align:left">&#x5907;&#x6CE8;</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align:left">&#x5929;&#x9B42;&#x878D;&#x8840;&#x4E39;</td>
+      <td style="text-align:left">&#x5384;&#x8840;&#x9B54;&#x53F6; + &#x4E03;&#x9636;&#x6728;&#x9B54;&#x6838;
+        + &#x4E03;&#x9636;&#x571F;&#x9B54;&#x6838;</td>
+      <td style="text-align:left">
+        <p></p>
+        <p>&#x83B7;&#x5F97;&#x751F;&#x547D;&#x6062;&#x590D; 500 &#x6301;&#x7EED;
+          60 &#x949F;</p>
+        <p>&#x589E;&#x52A0;&amp;e 1000 &#x66B4;&#x51FB;&#x503C;&#x6301;&#x7EED; 60
+          &#x79D2;</p>
+        <p>&#x75AB;&#x7269;&#x7406;&#x653B;&#x51FB;&#x6301;&#x7EED; 30 &#x79D2;</p>
+      </td>
+      <td style="text-align:left"></td>
+      <td style="text-align:left"></td>
+    </tr>
+    <tr>
+      <td style="text-align:left">&#x7D20;&#x5FC3;&#x547D;&#x9B42;&#x4E39;</td>
+      <td style="text-align:left">&#x5384;&#x8840;&#x9B54;&#x53F6; + &#x7D2B;&#x9B42;&#x82B1; + &#x4E03;&#x9636;&#x706B;&#x9B54;&#x6838;</td>
+      <td
+      style="text-align:left">
+        <p></p>
+        <p>&#x4F7F;&#x7528;&#x540E;&#x6062;&#x590D; 80% &#x751F;&#x547D;</p>
+        <p>&#x6062;&#x590D; 50% &#x6597;&#x6C14;</p>
+        <p>&#x989D;&#x5916;&#x589E;&#x52A0;300 &#x66B4;&#x51FB;&#x503C;</p>
+        <p>&#x6301;&#x7EED; 30 &#x5206;&#x949F;</p>
+        <p>&#x51B7;&#x5374;&#x65F6;&#x95F4;: 3 &#x79D2;</p>
+        </td>
+        <td style="text-align:left"></td>
+        <td style="text-align:left"></td>
+    </tr>
+    <tr>
+      <td style="text-align:left">&#x9634;&#x9633;&#x7384;&#x9F99;&#x4E39;</td>
+      <td style="text-align:left">&#x7D2B;&#x9B42;&#x82B1; + &#x4E03;&#x9636;&#x98CE;&#x9B54;&#x6838; +
+        &#x4E03;&#x9636;&#x6C34;&#x9B54;&#x6838;</td>
+      <td style="text-align:left">
+        <p></p>
+        <p>&#x83B7;&#x5F97;150&#x653B;&#x901F;</p>
+        <p>+60&#x79FB;&#x52A8;&#x901F;&#x5EA6;</p>
+        <p>+300&#x7269;&#x7406;&#x9632;&#x5FA1;</p>
+        <p>+500&#x706B;&#x9632;</p>
+        <p>+500&#x51B0;&#x9632;</p>
+        <p>+500&#x571F;&#x9632;</p>
+        <p>&#x6301;&#x7EED;5&#x5206;&#x949F;</p>
+        <p>&#x51B7;&#x5374;&#x65F6;&#x95F4;: 3 &#x79D2;</p>
+      </td>
+      <td style="text-align:left"></td>
+      <td style="text-align:left"></td>
+    </tr>
+  </tbody>
+</table>
 {% endtab %}
 
 {% tab title="8级" %}
