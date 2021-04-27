@@ -133,7 +133,64 @@
 {% endtab %}
 
 {% tab title="3级" %}
-
+<table>
+  <thead>
+    <tr>
+      <th style="text-align:left">&#x4E39;&#x836F;</th>
+      <th style="text-align:left">&#x9700;&#x8981;&#x6750;&#x6599;</th>
+      <th style="text-align:left">&#x6548;&#x679C;</th>
+      <th style="text-align:left">&#x6210;&#x529F;&#x7387;</th>
+      <th style="text-align:left">&#x5907;&#x6CE8;</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align:left">&#x56DE;&#x9633;&#x4E39;</td>
+      <td style="text-align:left">&#x7389;&#x674F;&#x6839; + &#x566C;&#x9B54;&#x82B1; + &#x4E09;&#x9636;&#x571F;&#x9B54;&#x6838;</td>
+      <td
+      style="text-align:left">
+        <p></p>
+        <p>&#x4F7F;&#x7528;&#x540E;&#x53EF;&#x6062;&#x590D; 800 &#x70B9;&#x751F;&#x547D;&apos;</p>
+        <p>&#x4F7F;&#x7528;&#x540E;&#x53EF;&#x6062;&#x590D; 100 &#x70B9;&#x6597;&#x6C14;</p>
+        </td>
+        <td style="text-align:left"></td>
+        <td style="text-align:left"></td>
+    </tr>
+    <tr>
+      <td style="text-align:left">&#x751F;&#x9AA8;&#x4E39;</td>
+      <td style="text-align:left">&#x7389;&#x674F;&#x6839; + &#x4E09;&#x9636;&#x6728;&#x9B54;&#x6838;</td>
+      <td
+      style="text-align:left">
+        <p></p>
+        <p>&#x4F7F;&#x7528;&#x540E;&#x53EF;&#x6062;&#x590D; 500&#x70B9;&#x751F;&#x547D;&apos;</p>
+        <p>&#x83B7;&#x5F97; 100 &#x751F;&#x547D;&#x6062;&#x590D; 30 &#x79D2;</p>
+        </td>
+        <td style="text-align:left"></td>
+        <td style="text-align:left"></td>
+    </tr>
+    <tr>
+      <td style="text-align:left">&#x805A;&#x6C14;&#x4E39;</td>
+      <td style="text-align:left">&#x566C;&#x9B54;&#x82B1; + &#x4E09;&#x9636;&#x6C34;&#x9B54;&#x6838;</td>
+      <td
+      style="text-align:left">
+        <p></p>
+        <p>&#x4F7F;&#x7528;&#x540E;&#x53EF;&#x6062;&#x590D; 300 &#x70B9;&#x6597;&#x6C14;&apos;</p>
+        <p>&#x83B7;&#x5F97;50&#x6597;&#x6C14;&#x6062;&#x590D;30 &#x79D2;</p>
+        </td>
+        <td style="text-align:left"></td>
+        <td style="text-align:left"></td>
+    </tr>
+    <tr>
+      <td style="text-align:left">&#x98CE;&#x884C;&#x4E39;</td>
+      <td style="text-align:left">&#x6076;&#x9B54;&#x8568; + &#x4E09;&#x9636;&#x706B;&#x9B54;&#x6838; +
+        &#x4E09;&#x9636;&#x98CE;&#x9B54;&#x6838;</td>
+      <td style="text-align:left">&#x5728;30&#x79D2;&#x5185;&#x63D0;&#x9AD8;50%&#x7684;&#x79FB;&#x52A8;&#x901F;&#x5EA6;</td>
+      <td
+      style="text-align:left"></td>
+        <td style="text-align:left"></td>
+    </tr>
+  </tbody>
+</table>
 {% endtab %}
 
 {% tab title="" %}
