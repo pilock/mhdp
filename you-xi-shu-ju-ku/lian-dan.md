@@ -193,8 +193,109 @@
 </table>
 {% endtab %}
 
-{% tab title="" %}
+{% tab title="4级" %}
+<table>
+  <thead>
+    <tr>
+      <th style="text-align:left">&#x4E39;&#x836F;</th>
+      <th style="text-align:left">&#x9700;&#x8981;&#x6750;&#x6599;</th>
+      <th style="text-align:left">&#x6548;&#x679C;</th>
+      <th style="text-align:left">&#x6210;&#x529F;&#x7387;</th>
+      <th style="text-align:left">&#x5907;&#x6CE8;</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align:left">&#x4E09;&#x7EB9;&#x9752;&#x7075;&#x4E39;</td>
+      <td style="text-align:left">&#x5730;&#x5996;&#x9B54;&#x6839; + &#x523A;&#x9B42;&#x53F6; + &#x56DB;&#x9636;&#x98CE;&#x9B54;&#x6838;</td>
+      <td
+      style="text-align:left">
+        <p></p>
+        <p>+300&#x70B9;&#x653B;&#x51FB;&#x529B;</p>
+        <p>+100&#x70B9;&#x66B4;&#x51FB;&#x503C;</p>
+        <p>+100 &#x70B9;&#x98CE;&#x653B;</p>
+        <p>&#x6301;&#x7EED;&#x65F6;&#x95F4;: 600 &#x79D2;</p>
+        </td>
+        <td style="text-align:left"></td>
+        <td style="text-align:left"></td>
+    </tr>
+    <tr>
+      <td style="text-align:left">&#x4E09;&#x9B42;&#x84DD;&#x7075;&#x4E39;</td>
+      <td style="text-align:left">&#x5730;&#x5996;&#x9B54;&#x6839; + &#x523A;&#x9B42;&#x53F6; + &#x56DB;&#x9636;&#x6C34;&#x9B54;&#x6838;</td>
+      <td
+      style="text-align:left">
+        <p></p>
+        <p>300&#x70B9;&#x653B;&#x51FB;&#x529B;</p>
+        <p>100 &#x70B9;&#x66B4;&#x51FB;&#x503C;</p>
+        <p>+100 &#x70B9;&#x6C34;&#x653B;</p>
+        <p>&#x6301;&#x7EED;&#x65F6;&#x95F4;: 600 &amp;6&#x79D2;</p>
+        </td>
+        <td style="text-align:left"></td>
+        <td style="text-align:left"></td>
+    </tr>
+    <tr>
+      <td style="text-align:left">&#x7D2B;&#x5FC3;&#x7834;&#x969C;&#x4E39;</td>
+      <td style="text-align:left">&#x523A;&#x9B42;&#x53F6; + &#x56DB;&#x9636;&#x706B;&#x9B54;&#x6838; +
+        &#x56DB;&#x9636;&#x6728;&#x9B54;&#x6838;</td>
+      <td style="text-align:left">
+        <p></p>
+        <p>&#x7ACB;&#x5373;&#x83B7;&#x5F97; 10000 &#x70B9;&#x7ECF;&#x9A8C;</p>
+        <p>&#x83B7;&#x5F97; 200% &#x7ECF;&#x9A8C;&#x52A0;&#x6210; 5 &#x5206;&#x949F;</p>
+        <p>&#x51B7;&#x5374;&#x65F6;&#x95F4;: 3 &#x79D2;</p>
+      </td>
+      <td style="text-align:left"></td>
+      <td style="text-align:left"></td>
+    </tr>
+    <tr>
+      <td style="text-align:left">&#x7EFF;&#x7075;&#x7B51;&#x8840;&#x4E39;</td>
+      <td style="text-align:left">&#x5730;&#x5996;&#x9B54;&#x6839; + &#x5929;&#x743C;&#x6811;&#x679D; +
+        &#x56DB;&#x9636;&#x571F;&#x9B54;&#x6838;</td>
+      <td style="text-align:left">
+        <p></p>
+        <p>&#x4F7F;&#x7528;&#x540E;&#x989D;&#x5916;&#x83B7;&#x5F97; 3000 &#x70B9;&#x751F;&#x547D;&#x503C;</p>
+        <p>&#x6301;&#x7EED;&#x65F6;&#x95F4;: 600 &#x79D2;</p>
+      </td>
+      <td style="text-align:left"></td>
+      <td style="text-align:left"></td>
+    </tr>
+  </tbody>
+</table>
+{% endtab %}
 
+{% tab title="5级" %}
+| 丹药 | 需要材料 | 效果 | 成功率 | 备注 |
+| :--- | :--- | :--- | :--- | :--- |
+|  |  |  |  |  |
+{% endtab %}
+
+{% tab title="6级" %}
+| 丹药 | 需要材料 | 效果 | 成功率 | 备注 |
+| :--- | :--- | :--- | :--- | :--- |
+|  |  |  |  |  |
+{% endtab %}
+
+{% tab title="7级" %}
+| 丹药 | 需要材料 | 效果 | 成功率 | 备注 |
+| :--- | :--- | :--- | :--- | :--- |
+|  |  |  |  |  |
+{% endtab %}
+
+{% tab title="8级" %}
+| 丹药 | 需要材料 | 效果 | 成功率 | 备注 |
+| :--- | :--- | :--- | :--- | :--- |
+|  |  |  |  |  |
+{% endtab %}
+
+{% tab title="9级" %}
+| 丹药 | 需要材料 | 效果 | 成功率 | 备注 |
+| :--- | :--- | :--- | :--- | :--- |
+|  |  |  |  |  |
+{% endtab %}
+
+{% tab title="10级" %}
+| 丹药 | 需要材料 | 效果 | 成功率 | 备注 |
+| :--- | :--- | :--- | :--- | :--- |
+|  |  |  |  |  |
 {% endtab %}
 {% endtabs %}
 
