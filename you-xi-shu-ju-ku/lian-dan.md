@@ -263,15 +263,139 @@
 {% endtab %}
 
 {% tab title="5级" %}
-| 丹药 | 需要材料 | 效果 | 成功率 | 备注 |
-| :--- | :--- | :--- | :--- | :--- |
-|  |  |  |  |  |
+<table>
+  <thead>
+    <tr>
+      <th style="text-align:left">&#x4E39;&#x836F;</th>
+      <th style="text-align:left">&#x9700;&#x8981;&#x6750;&#x6599;</th>
+      <th style="text-align:left">&#x6548;&#x679C;</th>
+      <th style="text-align:left">&#x6210;&#x529F;&#x7387;</th>
+      <th style="text-align:left">&#x5907;&#x6CE8;</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align:left">&#x5316;&#x5F62;&#x4E39;</td>
+      <td style="text-align:left">&#x87D2;&#x9B42;&#x9B54;&#x53F6; + &#x4E94;&#x9636;&#x706B;&#x9B54;&#x6838;
+        + &#x4E94;&#x9636;&#x98CE;&#x9B54;&#x6838;</td>
+      <td style="text-align:left">
+        <p></p>
+        <p>&#x83B7;&#x5F97;&amp;e1000 &amp;6&#x70B9;&#x6597;&#x6C14;&#x6062;&#x590D;&apos;</p>
+        <ul>
+          <li>&apos;&amp;6&#x6301;&#x7EED;&amp;e100 &amp;6&#x79D2;</li>
+        </ul>
+      </td>
+      <td style="text-align:left"></td>
+      <td style="text-align:left"></td>
+    </tr>
+    <tr>
+      <td style="text-align:left">&#x590D;&#x7075;&#x7D2B;&#x4E39;</td>
+      <td style="text-align:left">&#x8F6E;&#x56DE;&#x8349; + &#x7D2B;&#x8F69;&#x8349; + &#x4E94;&#x9636;&#x571F;&#x9B54;&#x6838;</td>
+      <td
+      style="text-align:left">
+        <p></p>
+        <p>&#x4F7F;&#x7528;&#x540E;&#x6062;&#x590D; &amp;e20%&amp;6&#x6597;&#x6C14;&apos;</p>
+        <ul>
+          <li>&apos;&amp;6&#x83B7;&#x5F97; &amp;e200 &amp;6&#x751F;&#x547D;&#x6062;&#x590D;&apos;</li>
+          <li>&apos;&amp;6&#x989D;&#x5916;&#x83B7;&#x5F97; &amp;e200 &amp;6&#x70B9;&#x98CE;&#x653B;&apos;</li>
+          <li>&apos;&amp;6&#x6301;&#x7EED; &amp;e1000 &amp;6&#x79D2;</li>
+        </ul>
+        </td>
+        <td style="text-align:left"></td>
+        <td style="text-align:left"></td>
+    </tr>
+    <tr>
+      <td style="text-align:left">&#x8840;&#x83B2;&#x4E39;</td>
+      <td style="text-align:left">&#x8F6E;&#x56DE;&#x8349; + &#x4E94;&#x9636;&#x6728;&#x9B54;&#x6838;</td>
+      <td
+      style="text-align:left">
+        <p></p>
+        <p>&#x4F7F;&#x7528;&#x540E;&#x6062;&#x590D; &amp;e50%&amp;6 &#x751F;&#x547D;&#x503C;&apos;</p>
+        <ul>
+          <li>&apos;&amp;6&#x6062;&#x590D; &amp;e60% &amp;6&#x6597;&#x6C14;&apos;</li>
+          <li>&apos;&amp;6&#x989D;&#x5916;&#x83B7;&#x5F97; &amp;e100 &amp;6&#x70B9;&#x7ECF;&#x9A8C;&#x52A0;&#x6210;&apos;</li>
+          <li>&apos;&amp;6&#x6301;&#x7EED; &amp;e6 &amp;6&#x5206;&#x949F;</li>
+        </ul>
+        </td>
+        <td style="text-align:left"></td>
+        <td style="text-align:left"></td>
+    </tr>
+    <tr>
+      <td style="text-align:left">&#x9F99;&#x529B;&#x4E39;</td>
+      <td style="text-align:left">&#x7D2B;&#x8F69;&#x8349; + &#x4E94;&#x9636;&#x6C34;&#x9B54;&#x6838;</td>
+      <td
+      style="text-align:left">
+        <p></p>
+        <p>10 &amp;6&#x79D2;&#x5185;&#x65E0;&#x89C6;&#x7269;&#x7406;&#x653B;&#x51FB;&apos;</p>
+        <ul>
+          <li>&apos;&amp;6&#x989D;&#x5916;&#x83B7;&#x5F97;&amp;e30&amp;6&#x70B9;&#x653B;&#x901F;&apos;</li>
+          <li>&apos;&amp;6+&amp;e500&amp;6&#x70B9;&#x7269;&#x7406;&#x653B;&#x51FB;&apos;</li>
+          <li>&apos;&amp;6&#x6301;&#x7EED;&amp;e60&#x79D2;&apos;</li>
+          <li>&apos;&amp;6&#x51B7;&#x5374;&#x65F6;&#x95F4;: &amp;e3 &amp;6&#x79D2;</li>
+        </ul>
+        </td>
+        <td style="text-align:left"></td>
+        <td style="text-align:left"></td>
+    </tr>
+  </tbody>
+</table>
 {% endtab %}
 
 {% tab title="6级" %}
-| 丹药 | 需要材料 | 效果 | 成功率 | 备注 |
-| :--- | :--- | :--- | :--- | :--- |
-|  |  |  |  |  |
+<table>
+  <thead>
+    <tr>
+      <th style="text-align:left">&#x4E39;&#x836F;</th>
+      <th style="text-align:left">&#x9700;&#x8981;&#x6750;&#x6599;</th>
+      <th style="text-align:left">&#x6548;&#x679C;</th>
+      <th style="text-align:left">&#x6210;&#x529F;&#x7387;</th>
+      <th style="text-align:left">&#x5907;&#x6CE8;</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align:left">&#x5730;&#x7075;&#x4E39;</td>
+      <td style="text-align:left">&#x53CC;&#x751F;&#x7075;&#x679C; + &#x516D;&#x9636;&#x6728;&#x9B54;&#x6838;
+        + &#x516D;&#x9636;&#x571F;&#x9B54;&#x6838;</td>
+      <td style="text-align:left">
+        <p></p>
+        <p>&#x83B7;&#x5F97; 600 &#x571F;&#x653B;</p>
+        <p>&#x589E;&#x52A0; 60% &#x79FB;&#x52A8;&#x901F;&#x5EA6;</p>
+        <p>&#x6301;&#x7EED; 60 &#x79D2;</p>
+      </td>
+      <td style="text-align:left"></td>
+      <td style="text-align:left"></td>
+    </tr>
+    <tr>
+      <td style="text-align:left">&#x7834;&#x5384;&#x4E39;</td>
+      <td style="text-align:left">&#x53CC;&#x751F;&#x7075;&#x679C; + &#x7EFF;&#x51A5;&#x679C;&#x6D46; +
+        &#x516D;&#x9636;&#x706B;&#x9B54;&#x6838;</td>
+      <td style="text-align:left">
+        <p></p>
+        <p>&#x4F7F;&#x7528;&#x540E;&#x7ACB;&#x5373;&#x83B7;&#x5F97; 15000 &#x70B9;&#x7ECF;&#x9A8C;&#x503C;</p>
+        <p>&#x6062;&#x590D;50% &#x6597;&#x6C14;</p>
+        <p>&#x989D;&#x5916;&#x589E;&#x52A0; 3500 &#x70B9;&#x9644;&#x52A0;&#x751F;&#x547D;</p>
+        <p>&#x6301;&#x7EED; 5 &#x5206;&#x949F;</p>
+      </td>
+      <td style="text-align:left"></td>
+      <td style="text-align:left"></td>
+    </tr>
+    <tr>
+      <td style="text-align:left">&#x9752;&#x51A5;&#x878D;&#x7075;&#x4E39;</td>
+      <td style="text-align:left">&#x7EFF;&#x51A5;&#x679C;&#x6D46; + &#x516D;&#x9636;&#x98CE;&#x9B54;&#x6838;
+        + &#x516D;&#x9636;&#x6C34;&#x9B54;&#x6838;</td>
+      <td style="text-align:left">
+        <p></p>
+        <p>&#x83B7;&#x5F97; 100 &#x7ECF;&#x9A8C;&#x52A0;&#x6210;</p>
+        <p>50 &#x70B9;&#x653B;&#x901F;</p>
+        <p>250 &#x70B9;&#x706B;&#x653B;</p>
+        <p>&#x6301;&#x7EED;30 &#x5206;&#x949F;</p>
+      </td>
+      <td style="text-align:left"></td>
+      <td style="text-align:left"></td>
+    </tr>
+  </tbody>
+</table>
 {% endtab %}
 
 {% tab title="7级" %}
