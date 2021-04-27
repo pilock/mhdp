@@ -122,7 +122,6 @@
       <td style="text-align:left">&#x5BD2;&#x971C;&#x82B1;&#x9716; + &#x4E8C;&#x9636;&#x706B;&#x9B54;&#x6838;
         + &#x4E8C;&#x9636;&#x6728;&#x9B54;&#x6838;</td>
       <td style="text-align:left">
-        <p></p>
         <p>&#x7ACB;&#x5373;&#x83B7;&#x5F97; 1000 &#x70B9;&#x7ECF;&#x9A8C;&apos;</p>
         <p>&#x83B7;&#x5F97; 50% &#x7ECF;&#x9A8C;&#x52A0;&#x6210; 5 &#x5206;&#x949F;</p>
       </td>
